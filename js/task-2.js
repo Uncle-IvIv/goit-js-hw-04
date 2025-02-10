@@ -1,7 +1,7 @@
 function calcAverageCalories(days) {
     let totalCalories = 0;
     if (!days.length) {
-        return `You have not provided enough information`;
+        return `Needs clarification`;
     }
 
     for (let dayCalories of days) {
