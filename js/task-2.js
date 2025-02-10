@@ -21,7 +21,7 @@ console.log(
         { day: "saturday", calories: 3280 },
         { day: "sunday", calories: 3300 }
     ])
-); // (3010+3200+3120+2900+3450+3280+3300)/7 = 3180
+); // 3180
 
 console.log(
     calcAverageCalories([
